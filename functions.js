@@ -1,0 +1,5 @@
+
+
+object.oncluck = function timer() {
+
+}
